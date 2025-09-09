@@ -34,16 +34,16 @@ Written by a total beginner who knew nothing about Godot... yet.
 
 ----------------
 
-Hardware:
-- A Pi500 and a screen
-  - To practice Godot and push files on the Quest
-- A USB 3 to USB C cable
-- A Quest 3 in developer mode
-
+**Hardware:**
+- A [Pi500](https://github.com/EloiStree/HelloRaspberryPi/issues/58) and a screen or a [Touch Screen Pi](https://github.com/EloiStree/HelloRaspberryPi/issues/59) with Keyboard
+- A [Quest 3](https://github.com/EloiStree/HelloGodotXR/issues/12) in [developer mode](https://github.com/EloiStree/HelloQuest3/issues/155)
+- A USB 3 to USB C cable to connect the both device
+- A [Keyboard to connect to the Quest](https://github.com/EloiStree/HelloRaspberryPi/issues/60)
+- A [Hub USB C for the Quest](https://github.com/EloiStree/HelloRaspberryPi/issues/61)
 
 ----------
 
-Painting & 3D
+**Painting & 3D:**
 - [Open Brush](https://github.com/EloiStree/HelloPaintingJam/issues/9) 
 - [Open Blocks](https://github.com/EloiStree/HelloPaintingJam/issues/23) 
 - [Gravity Sketch](https://github.com/EloiStree/HelloPaintingJam/issues/21) 
@@ -54,21 +54,21 @@ Painting & 3D
 
 -----------
 
-Step unkown:
-- [] Download a project on the Quest ?
-- [] Create a scene ?
-- [] Configure the project to be AR on the Quest
-  - [] Configure the scene to have a point at hand positions
-- [] Create an empty Node in Scene ?
-- [] Add a cube the size of a drone ?
-- [] Import a 3D model of a drone as grey box ?
-- [] Add texturing to the drone ?
-- [] Listen to Joystick Input ?
-- [] Move a cube on local axis ?
-- [] Rotate a cube on vertical axis ?
-- [] Download some drone racing models ?
-- [] Add models to the game ?
-- 
+**Step unkown:**
+- [ ] Download a project on the Quest ?
+- [ ] Create a scene ?
+- [ ] Configure the project to be AR on the Quest
+  - [ ] Configure the scene to have a point at hand positions
+- [ ] Create an empty Node in Scene ?
+- [ ] Add a cube the size of a drone ?
+- [ ] Import a 3D model of a drone as grey box ?
+- [ ] Add texturing to the drone ?
+- [ ] Listen to Joystick Input ?
+- [ ] Move a cube on local axis ?
+- [ ] Rotate a cube on vertical axis ?
+- [ ] Download some drone racing models ?
+- [ ] Add models to the game ?
+
 
 
 -------------------
@@ -89,7 +89,7 @@ To Do:
 -------------
 
 
-**Step by step guide from Meta Store to your first godot XR project*  
+**Step by step guide from Meta Store to your first godot XR project**    
   - [Installer Godot depuis le store](https://youtu.be/BWHUlZuLHxo?t=45)
   - [Give Permission to Godot to access files on the Quest](https://youtu.be/BWHUlZuLHxo?t=100)
   - [Got to Bluetooth Setting from menu](https://youtu.be/BWHUlZuLHxo?t=146)
