@@ -82,3 +82,51 @@ To Do:
   - Video With Godot project
   - Video with Roblox project 
 - A step by step video without sound of this workshop in a 2 minutes max loop.
+
+
+
+
+-------------
+
+- https://youtu.be/BWHUlZuLHxo?t=45
+  - [Installer Godot depuis le store](https://youtu.be/BWHUlZuLHxo?t=45)
+  - [Give Permission to Godot to access files on the Quest](https://youtu.be/BWHUlZuLHxo?t=100)
+  - [Got to Bluetooth Setting from menu](https://youtu.be/BWHUlZuLHxo?t=146)
+    - [Add the keyboard](https://youtu.be/BWHUlZuLHxo?t=191)
+    -  [Add the mouse](https://youtu.be/BWHUlZuLHxo?t=245)
+  - [Create a Godot project on the Quest](https://youtu.be/BWHUlZuLHxo?t=286)
+  - [Create a `_Project` folder to store the incoming files](https://youtu.be/BWHUlZuLHxo?t=433)
+  - [Create a scene node to work on our first level](https://youtu.be/BWHUlZuLHxo?t=458)
+  - [Add MeshInstance3D node and set it as a cube](https://youtu.be/BWHUlZuLHxo?t=507) 
+  - [Rescale to have the size of a drone](https://youtu.be/BWHUlZuLHxo?t=554)
+  - [Add a camera to the game](https://youtu.be/BWHUlZuLHxo?t=684)
+  - [Add a light in the scene](https://youtu.be/BWHUlZuLHxo?t=768)
+  - [Change Camera for an XR one and add origine](https://youtu.be/BWHUlZuLHxo?t=823)
+  - [Enable Shader for XR](https://youtu.be/BWHUlZuLHxo?t=884)
+  - [Active the XR in the project setting](https://youtu.be/BWHUlZuLHxo?t=906)
+  - [Set the project as passthrough enable](https://youtu.be/BWHUlZuLHxo?t=928)
+  - [Restart Godot](https://youtu.be/BWHUlZuLHxo?t=1007)
+  - [Play the game just to see what happen](https://youtu.be/BWHUlZuLHxo?t=1017)
+  - [Accept to have access to spatial data](https://youtu.be/BWHUlZuLHxo?t=1032)
+  - [Look for the Godot Manual to find the missing script](https://youtu.be/BWHUlZuLHxo?t=1088)
+  - [Copy the missing script to enable XR with code](https://youtu.be/BWHUlZuLHxo?t=1146)
+  - [Add script to a empty Node](https://youtu.be/BWHUlZuLHxo?t=1196)
+  - [Make sure the camera is at zero](https://youtu.be/BWHUlZuLHxo?t=1272)
+  - [Add two XRController Node set for hands](https://youtu.be/BWHUlZuLHxo?t=1326)
+  - [Add a 3D sphere to the two hand](https://youtu.be/BWHUlZuLHxo?t=1384)
+  - [Set the Camera background to black transparent](https://youtu.be/BWHUlZuLHxo?t=1453)
+  - [Create an account SketchFab](https://youtu.be/BWHUlZuLHxo?t=1534)
+  - [Find a low poly drone to download as glb file](https://youtu.be/BWHUlZuLHxo?t=1624)
+  - [Realize that there is ... no file manager on Quest3](https://youtu.be/BWHUlZuLHxo?t=1695)
+  - [Download a 3D Mesh you want to see in XR](https://youtu.be/BWHUlZuLHxo?t=1771)
+  - [Vibe Code a script that download all file in download to the Godot project](https://youtu.be/BWHUlZuLHxo?t=1759)
+    - [Download the script](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/blob/main/ScriptOnTheWay/LoadDownloadFileInGodotThenDelete.gd)
+  - [Add on an empty Node a new script with the loader](https://youtu.be/BWHUlZuLHxo?t=1821)
+  - [What does the script ? Copy and delete all file not to heavy and not zip](https://youtu.be/BWHUlZuLHxo?t=1857)
+  - [Play the game to use _ready and import the files](https://youtu.be/BWHUlZuLHxo?t=1886)
+  - [Wait Godot to import files](https://youtu.be/BWHUlZuLHxo?t=1963)
+  - [Instanciate a 3D Node in the scene](https://youtu.be/BWHUlZuLHxo?t=2024)
+  - [Rescale to a human size by adding 1 meter cube](https://youtu.be/BWHUlZuLHxo?t=2046)
+  - [Enjoy you model 😁👍](https://youtu.be/BWHUlZuLHxo?t=2135)
+
+
