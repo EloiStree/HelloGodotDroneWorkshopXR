@@ -3,7 +3,7 @@
 ------------------------------
 
 
-# Hello Godot Kid Toy Workshop XR
+# Hello Godot drone Workshop XR
 
 A 45-minute beginner-friendly workshop on creating games in XR with Godot.
 
