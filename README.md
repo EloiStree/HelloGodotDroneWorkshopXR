@@ -7,8 +7,9 @@
 
 A 45-minute beginner-friendly workshop on creating games in XR with Godot.
 
-[<img width="628" height="358" alt="image" src="https://github.com/user-attachments/assets/67926c5c-7c06-40a3-bbd0-bd66e1b01724" />]([https://www.youtube.com/watch?v=NtH-HhaLw-Q](https://youtu.be/NtH-HhaLw-Q?t=89))
-Super easy—barely an inconvenience 😉
+[<img width="628" height="358" alt="image" src="https://github.com/user-attachments/assets/67926c5c-7c06-40a3-bbd0-bd66e1b01724" />]([https://www.youtube.com/watch?v=NtH-HhaLw-Q](https://youtu.be/NtH-HhaLw-Q?t=89))  
+<img width="1501" height="834" alt="image" src="https://github.com/user-attachments/assets/17492008-f4ae-47cc-bf0f-3c03a0f34860" />  
+
 
 I was asked to host a workshop to promote a training center that teaches XR.
 
