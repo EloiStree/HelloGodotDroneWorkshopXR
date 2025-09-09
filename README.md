@@ -96,5 +96,13 @@ To Do:
 
 
 
+
+### Rotate a drone ?
+
 **Jouons avec des rotations**:    
-[https://github.com/EloiStree/HelloGodotEngineKeyword/issues/17](https://github.com/EloiStree/HelloGodotEngineKeyword/issues/17)  
+[https://github.com/EloiStree/HelloGodotEngineKeyword/issues/17](https://github.com/EloiStree/HelloGodotEngineKeyword/issues/17)    
+
+
+**Un concept mathematique simple, c'est plus facile en 0:0:0**: 
+- https://github.com/EloiStree/2024_10_19_RelocationRotation
+- https://github.com/EloiStree/2024_10_17_ThreePointsUtility
