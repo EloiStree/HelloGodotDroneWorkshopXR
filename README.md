@@ -41,6 +41,16 @@ Hardware:
 - A Quest 3 in developer mode
 
 
+----------
+
+Painting & 3D
+- Open Brush https://github.com/EloiStree/HelloPaintingJam/issues/9
+- Open Blocks https://github.com/EloiStree/HelloPaintingJam/issues/23
+- Gravity Sketch https://github.com/EloiStree/HelloPaintingJam/issues/21
+- King Spray https://github.com/EloiStree/HelloPaintingJam/issues/39
+- Painting VR https://github.com/EloiStree/HelloPaintingJam/issues/8
+- Doodle Board https://github.com/EloiStree/HelloPaintingJam/issues/45
+
 
 -----------
 
