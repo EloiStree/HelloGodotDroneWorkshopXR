@@ -88,7 +88,8 @@ To Do:
 
 -------------
 
-- https://youtu.be/BWHUlZuLHxo?t=45
+
+**From zero to K9 Dog in your room**
   - [Installer Godot depuis le store](https://youtu.be/BWHUlZuLHxo?t=45)
   - [Give Permission to Godot to access files on the Quest](https://youtu.be/BWHUlZuLHxo?t=100)
   - [Got to Bluetooth Setting from menu](https://youtu.be/BWHUlZuLHxo?t=146)
