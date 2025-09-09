@@ -52,7 +52,7 @@ Written by a total beginner who knew nothing about Godot... yet.
 - [King Spray](https://github.com/EloiStree/HelloPaintingJam/issues/39) 
 - [Painting VR](https://github.com/EloiStree/HelloPaintingJam/issues/8) 
 - [Doodle Board](https://github.com/EloiStree/HelloPaintingJam/issues/45) 
-
+- [Rulers](https://www.meta.com/fr-fr/experiences/reality-ruler/6709992609064585)
 
 -----------
 
