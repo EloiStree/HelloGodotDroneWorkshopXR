@@ -17,3 +17,9 @@ So… here it is: **How to make a drone game in just 45 minutes.**
 Written by a total beginner who knew nothing about Godot... yet.
 
 ---
+
+- [ ] Step: Buy a Quest3
+  - https://www.meta.com/be/fr/quest/quest-3 
+- [ ] Step: Download and install Godot on the Quest3
+  - https://www.meta.com/experiences/godot-game-engine/7713660705416473/?srsltid=AfmBOorqM0LScfHK7gO0-Af1yAwLXIwiRg_rGHchFeTXuswNAsQF6v3b
+- [ ] Step: Launch the Application
