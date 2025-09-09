@@ -107,3 +107,10 @@ To Do:
 **Un concept mathematique simple, c'est plus facile en 0:0:0**: 
 - https://github.com/EloiStree/2024_10_19_RelocationRotation
 - https://github.com/EloiStree/2024_10_17_ThreePointsUtility
+
+
+---------------
+
+Check this project :)
+[<img width="1911" height="1144" alt="image" src="https://github.com/user-attachments/assets/a03850d1-38cc-4f7b-b63f-9c66b2d1a2a1" />](https://github.com/Cykyrios/GodotDrone)
+https://github.com/Cykyrios/GodotDrone
