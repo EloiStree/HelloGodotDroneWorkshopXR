@@ -93,3 +93,6 @@ To Do:
 [Configure the godot project in XR on the Quest3 🎥🗒️](https://github.com/EloiStree/HelloGodotXR/issues/15)      
 
 
+
+**Jouons avec des rotations**:    
+[https://github.com/EloiStree/HelloGodotEngineKeyword/issues/17](https://github.com/EloiStree/HelloGodotEngineKeyword/issues/17)  
