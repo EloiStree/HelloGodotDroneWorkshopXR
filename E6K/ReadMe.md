@@ -20,7 +20,7 @@ Après une courte vidéo de présentation, deux rôles sont répartis : **l’op
 
 ---
 
-### 💻 Le préparateur (sur PC Pi)
+### 💻 Le préparateur (sur Pi)
 
 1. Ouvrir Godot et accéder à la scène principale.
 2. Chercher sur *Sketchfab* (ou autre) un objet par participant à intégrer dans le casque.
