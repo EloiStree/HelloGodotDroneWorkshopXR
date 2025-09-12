@@ -40,7 +40,7 @@ Pendant qu’un participant est dans le casque, l’autre (ou les autres) explor
   * Les autres pour tester des jeux et outils de dessin 3D en XR (si plus de 8 participants)
 * 2 piles chargées par casque → **12 batteries minimum**
 * Le téléphone liés aux casques (en cas de configuration manquante)
-* 2 vestes **bHaptics** pour les tests (d’aprèsle Nid, deux suffisent)
+* 2 vestes **bHaptics** pour les tests 
   * Je les ferai fonctionner via un PC et le téléphone des Quest
 * Une bonne borne Wi-Fi
 * As t on acces a internet **??**
