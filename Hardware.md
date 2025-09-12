@@ -1,9 +1,9 @@
 
 **Pour l’atelier du 17 septembre**
-👉 [Lien vers l’activité](https://technocite.be/activities/open-daypanorama-des-technologies-immersives-xr15h30-17h30)
+👉  [13h00-15h00](https://technocite.be/activities/open-daypanorama-des-technologies-immersives-xr13h00-15h00) - [15h30-17h30](https://technocite.be/activities/open-daypanorama-des-technologies-immersives-xr15h30-17h30)
 
 L’atelier consiste à faire réaliser aux participants un petit jeu de drone en réalité mixte directement dans le casque Meta.
-Ils utiliseront du **glisser-déposer d’objets 3D** ainsi qu’un drone déjà pré-codé pour eux — rien de très complexe.
+Ils utiliseront du **glisser-déposer d’objets 3D** ainsi qu’un drone déjà pré-codé pour eux, rien de très complexe.
 👉 Prévoir **1 casque pour 2 participants**.
 
 Pendant qu’un participant est dans le casque, l’autre (ou les autres) explorent **Godot** et **SketchFab** sur des Raspberry Pi que j’apporterai, et observent sur un écran Windows ce qui se passe dans le casque.
@@ -54,6 +54,8 @@ Pendant qu’un participant est dans le casque, l’autre (ou les autres) explor
     * brancher les PC
     * charger les casques
     * espacer les bancs si nécessaire
+* De la place pour que 8-12+ personnes puissent travailler sur les laptops
+* De la place pour que les casques puissent circuler.  
 
 ----------
 
