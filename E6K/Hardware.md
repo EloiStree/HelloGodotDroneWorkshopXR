@@ -72,3 +72,11 @@ A installer,gratuit, pour l'atelier sur les Quest3
 * Veiller à bien recharger les casques.
 * Me laisser le temps de configurer les laptops Windows avec un accès à Internet avant l’atelier, si possible le matin.
 
+
+___________
+
+? ?
+
+<img width="1211" height="452" alt="image" src="https://github.com/user-attachments/assets/d3376a66-21bf-4bfd-856b-e4ff7d71df07" />
+
+
