@@ -1,3 +1,4 @@
+Open Day E6K : https://www.eventbrite.fr/e/billets-open-day-e6k-ft-a6k-2025-1419232395299?aff=oddtdtcreator
 
 **Pour l’atelier du 17 septembre**
 👉  [13h00-15h00](https://technocite.be/activities/open-daypanorama-des-technologies-immersives-xr13h00-15h00) - [15h30-17h30](https://technocite.be/activities/open-daypanorama-des-technologies-immersives-xr15h30-17h30)
