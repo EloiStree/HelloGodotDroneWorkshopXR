@@ -2,10 +2,10 @@
 
 ------------------------------
 
-<img width="612" height="306" alt="image" src="https://github.com/user-attachments/assets/28898883-b341-423c-a958-4b7c1970a0a9" />
+<img width="612" height="306" alt="image" src="https://github.com/user-attachments/assets/28898883-b341-423c-a958-4b7c1970a0a9" />  
+Cours en construction. Pas la version final du tout.  
+Workshop under construction. Not the final version at all.  
 
-Cours en construction. Pas la version final du tout.
-Workshop under construction. Not the final version at all.
 -----------
 # Hello Godot drone Workshop XR
 
