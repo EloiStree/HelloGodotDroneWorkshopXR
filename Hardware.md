@@ -3,7 +3,7 @@ Open Day E6K : https://www.eventbrite.fr/e/billets-open-day-e6k-ft-a6k-2025-1419
 **Pour l’atelier du 17 septembre**
 👉  [13h00-15h00](https://technocite.be/activities/open-daypanorama-des-technologies-immersives-xr13h00-15h00) - [15h30-17h30](https://technocite.be/activities/open-daypanorama-des-technologies-immersives-xr15h30-17h30)
 
-L’atelier consiste à faire réaliser aux participants un petit jeu de drone en réalité mixte directement dans le casque Meta.
+L’atelier consiste à faire réaliser aux participants un petit jeu de drone en réalité mixte directement dans le casque Meta avec Godot.
 Ils utiliseront du **glisser-déposer d’objets 3D** ainsi qu’un drone déjà pré-codé pour eux, rien de très complexe.
 👉 Prévoir **1 casque pour 2 participants**.
 
@@ -44,6 +44,13 @@ Pendant qu’un participant est dans le casque, l’autre (ou les autres) explor
   * Je les ferai fonctionner via un PC et le téléphone des Quest
 * Une bonne borne Wi-Fi
 * As t on acces a internet **??**
+
+A installer,gratuit, pour l'atelier sur les Quest3
+- Godot https://www.meta.com/en-gb/experiences/godot-game-engine/7713660705416473
+- Open Brush https://www.meta.com/en-gb/experiences/open-brush-3d-painting/3600360710032222
+- Open Block https://www.meta.com/en-gb/experiences/open-blocks-low-poly-3d-modelling/8043509915705378
+- Gravity Sketch https://www.meta.com/en-gb/experiences/1587090851394426/
+- Draw 3D https://www.meta.com/en-gb/experiences/draw-3d/6306845432709933
 
 ---
 
