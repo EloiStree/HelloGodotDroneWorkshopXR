@@ -41,6 +41,7 @@ Après une courte vidéo de présentation, deux rôles sont répartis : **l’op
 4. Surveiller l’état du casque depuis le PC.
 5. Apporter une assistance aux deux collègues.
 
+
 ---
 
 ### ⏱️ Gestion du temps
