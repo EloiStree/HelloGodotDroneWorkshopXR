@@ -9,7 +9,7 @@ Après une courte vidéo de présentation, deux rôles sont répartis : **l’op
 ### 🎧 L’opérateur (sur le casque VR)
 
 1. Découvrir le casque, configurer le Guardian et lancer Godot.
-2. Ouvrir et tester une scène avec un drone dans un espace vide.
+2. Ouvrir et tester une scène avec un drone dans un espace vide (présent sur le casque).
 3. Utiliser *Open Brush* pour dessiner un circuit destiné au drone.
 4. Exporter le circuit et l’importer dans Godot.
 5. Ajuster l’objet 3D importé.
