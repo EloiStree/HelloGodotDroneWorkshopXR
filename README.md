@@ -38,20 +38,6 @@ Written by a total beginner who knew nothing about Godot... yet.
 
 -----------
 
-Pratiquer prend plus de temps que regarder.
-Je prévois **45 minutes d’atelier maximum**, soit environ **5 minutes par étape**.
-
-Après une courte présentation vidéo de l’atelier :
-
-1. Appréhender le casque et lancer Godot
-2. Ouvrir et jouer la scène avec un drone dans un espace vide
-3. Ouvrir Open Brush et dessiner un circuit pour le drone
-4. Exporter le circuit et l’importer dans Godot
-5. Ajuster l’objet 3D
-6. Ajouter un drapeau, le point de départ et le point d’arrivée
-7. Importer l’objet 3D que le collègue a déposé sur le casque
-8. Découvrir et comparer les objets 3D avec le collègue
-9. Faire tester le jeu à une personne extérieure
 
 
 ----------------
