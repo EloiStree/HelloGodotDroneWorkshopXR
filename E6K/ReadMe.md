@@ -33,6 +33,16 @@ Après une courte vidéo de présentation, deux rôles sont répartis : **l’op
 
 ---
 
+### 💻 L’observateur (sur PC Windows)
+
+1. Ouvrir Oculus Developer Hub.
+2. Vérifier que le point Wi-Fi est activé et que le casque est bien connecté à ce réseau.
+3. Brancher le Quest et le reconnecter en Wi-Fi (à chaque redémarrage du casque).
+4. Surveiller l’état du casque depuis le PC.
+5. Apporter une assistance aux deux collègues.
+
+---
+
 ### ⏱️ Gestion du temps
 
 * **Si vous avancez lentement** → concentrez-vous sur la visualisation d’un objet en 3D.
