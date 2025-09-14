@@ -81,4 +81,19 @@ L’industrie du jeu vidéo est avant tout **un travail d’équipe et de commun
 
 
 
+Plutot que Drone, utilisons un roue de Vehicule... Un OVNI pardont.
+Celui ci a ete creer maladroitement pendant que creerait une mini voiture en 3D
+
+Download the Mesh
+https://github.com/EloiStree/2025_04_15_KidToyOvniCode/tree/main/Assets/3D/Ship/Mesh
+
+Il va falloirt l habiller, c est ce que l on appelle un UV et une Texture.
+https://github.com/EloiStree/2025_04_15_KidToyOvniCode/tree/main/Assets/3D/Ship/Texture
+
+Si on regarde a l OVNI 3D, on peut constater que c est fait par un developeur... Chaqu un son metier comme on dit.
+Regarder la difference avec un artiste.
+[] Ajouter model de Maude
+
+
+
 
