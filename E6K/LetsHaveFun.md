@@ -81,22 +81,22 @@ L’industrie du jeu vidéo est avant tout **un travail d’équipe et de commun
 
 
 
-Plutot que Drone, utilisons un roue de Vehicule... Un OVNI pardont.
-Celui ci a ete creer maladroitement pendant que creerait une mini voiture en 3D
-Apres la voir monter a Maude qui a pu voir mes non talent d artiste sur le depligage et la 3D, elle a bien voulu nous refaire un models d une meilleur qualiter.
+Plutôt qu’un drone, utilisons une roue de véhicule… ou plutôt un OVNI.
+Celui-ci a été créé un peu maladroitement pendant que je travaillais sur une mini-voiture en 3D.
+Après l’avoir montré à Maude — qui a pu constater mes talents limités en dépliage et modélisation 3D — elle a gentiment accepté de refaire un modèle de bien meilleure qualité.
 
+👉 Télécharger le Mesh :
+[Mesh du vaisseau](https://github.com/EloiStree/2025_04_15_KidToyOvniCode/tree/main/Assets/3D/Ship/Mesh)
 
-Download the Mesh
-https://github.com/EloiStree/2025_04_15_KidToyOvniCode/tree/main/Assets/3D/Ship/Mesh
+Il faudra ensuite l’habiller, c’est-à-dire lui appliquer un UV et une texture :
+[Textures du vaisseau](https://github.com/EloiStree/2025_04_15_KidToyOvniCode/tree/main/Assets/3D/Ship/Texture)
 
+Pour ajouter un peu de fun, on pourrait imaginer que l’OVNI puisse abduire des objets dans la scène.
+Allons chercher un modèle 3D et ses textures pour cela :
 
-Il va falloirt l habiller, c est ce que l on appelle un UV et une Texture.
-https://github.com/EloiStree/2025_04_15_KidToyOvniCode/tree/main/Assets/3D/Ship/Texture
+* [Rayon d’abduction (FBX)](https://github.com/EloiStree/2025_04_15_KidToyOvniCode/blob/main/Assets/3D/Aduction/Mesh/AbductionRay.fbx)
+* [Textures du rayon d’abduction](https://github.com/EloiStree/2025_04_15_KidToyOvniCode/tree/main/Assets/3D/Aduction/Texture)
 
-Ca pourrait etre fun de pouvoir abducter des objets dans la scene.
-Allons cherche un object 3D pour cela et ses textures:
-https://github.com/EloiStree/2025_04_15_KidToyOvniCode/blob/main/Assets/3D/Aduction/Mesh/AbductionRay.fbx
-https://github.com/EloiStree/2025_04_15_KidToyOvniCode/tree/main/Assets/3D/Aduction/Texture
 
 
 
