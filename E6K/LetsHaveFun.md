@@ -83,16 +83,20 @@ L’industrie du jeu vidéo est avant tout **un travail d’équipe et de commun
 
 Plutot que Drone, utilisons un roue de Vehicule... Un OVNI pardont.
 Celui ci a ete creer maladroitement pendant que creerait une mini voiture en 3D
+Apres la voir monter a Maude qui a pu voir mes non talent d artiste sur le depligage et la 3D, elle a bien voulu nous refaire un models d une meilleur qualiter.
+
 
 Download the Mesh
 https://github.com/EloiStree/2025_04_15_KidToyOvniCode/tree/main/Assets/3D/Ship/Mesh
 
+
 Il va falloirt l habiller, c est ce que l on appelle un UV et une Texture.
 https://github.com/EloiStree/2025_04_15_KidToyOvniCode/tree/main/Assets/3D/Ship/Texture
 
-Si on regarde a l OVNI 3D, on peut constater que c est fait par un developeur... Chaqu un son metier comme on dit.
-Regarder la difference avec un artiste.
-[] Ajouter model de Maude
+Ca pourrait etre fun de pouvoir abducter des objets dans la scene.
+Allons cherche un object 3D pour cela et ses textures:
+https://github.com/EloiStree/2025_04_15_KidToyOvniCode/blob/main/Assets/3D/Aduction/Mesh/AbductionRay.fbx
+https://github.com/EloiStree/2025_04_15_KidToyOvniCode/tree/main/Assets/3D/Aduction/Texture
 
 
 
