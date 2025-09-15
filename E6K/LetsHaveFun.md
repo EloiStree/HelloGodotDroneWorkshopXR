@@ -114,3 +114,18 @@ https://github.com/HelloGodotPi/ScreenCopyCommandOnPiForQuest
 
 Ou sont stocker les fichiers:  
 - https://github.com/EloiStree/HelloPaintingJam/issues/47  
+
+
+
+## Step by step pour apres la formation
+
+Nous allons commencer avec un projet a copier coller.
+Voici les etapes si vous voulez le faire chez vous.
+
+**Comment on install Godot chez soit pour la XR ?**
+- Installer https://youtu.be/BWHUlZuLHxo
+- Creer une premiere scene en Godot https://youtu.be/BWHUlZuLHxo?t=395
+- Transitionner a un projet OpenXR https://youtu.be/BWHUlZuLHxo?t=824
+- Telecharger un object de SketchFab dans le jeu https://youtu.be/BWHUlZuLHxo?t=1478
+- Ajouter l object a la scene https://youtu.be/BWHUlZuLHxo?t=1966
+
