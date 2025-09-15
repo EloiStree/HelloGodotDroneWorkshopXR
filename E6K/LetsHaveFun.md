@@ -101,3 +101,14 @@ Allons chercher un modèle 3D et ses textures pour cela :
 
 
 
+----------------------
+
+
+
+Launch SCRCPY from terminal
+<img width="1913" height="927" alt="image" src="https://github.com/user-attachments/assets/804e7f92-9246-4473-a314-aeece3dcf5c5" />
+https://github.com/HelloGodotPi/ScreenCopyCommandOnPiForQuest
+
+
+
+
