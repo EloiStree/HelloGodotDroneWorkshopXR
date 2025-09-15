@@ -99,6 +99,14 @@ Allons chercher un modèle 3D et ses textures pour cela :
 
 
 
+-----------------
+
+# Comment exporter du Quest au Pi
+
+- Open Brush https://youtu.be/AKn6IFwW0Kg
+- Gravity Sketch https://youtu.be/LbBPr0XO-fI
+- Godot Project vers le Pi https://youtu.be/EgIcnY4S-iE
+
 
 
 ----------------------
@@ -129,3 +137,8 @@ Voici les etapes si vous voulez le faire chez vous.
 - Telecharger un object de SketchFab dans le jeu https://youtu.be/BWHUlZuLHxo?t=1478
 - Ajouter l object a la scene https://youtu.be/BWHUlZuLHxo?t=1966
 
+
+
+Autre utilisation du Quest:
+- Surveiller un laser a diode https://youtube.com/shorts/e4XZdzPEuTE
+- C est quoi un OTG https://youtu.be/zLPhGHSX6wk
