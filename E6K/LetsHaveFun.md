@@ -112,3 +112,5 @@ https://github.com/HelloGodotPi/ScreenCopyCommandOnPiForQuest
 
 
 
+Ou sont stocker les fichiers:  
+- https://github.com/EloiStree/HelloPaintingJam/issues/47  
