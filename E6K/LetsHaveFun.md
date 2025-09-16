@@ -1,16 +1,31 @@
 **To use from the Quest:**
 
-Import asset from Dowanload and other folder on Quest3:  
-https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_09_15_gdp_import_assets_on_quest/script/import_on_godot_quest_assets.gd  
-
-- [Load XR](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/_project/scene/load_xr.gd)    [Joystick to Move Drone](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/move_drone_from_two_joysticks.gd): 
-   [Input To joystick](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/drone_input_to_vector2.gd) 
-  [Quit the game](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/node_quit_current_game.gd) 
-  [Restart the game](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/node_restart_current_game.gd) 
+Si vous n avez que un Quest vous ne pouvez pas gere vos fichiers sur le casque.
+Il vous faudra donc un code that qui va chercher les fichiers la ou ils sont depuis godot.
 
 
-Patoune Texture2D https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_10_02_gdp_patoune_race/2D/Patoune.png  
+Import asset from Dowanload and other folder on Quest3: 
+Step: Code to import in Godot https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_09_15_gdp_import_assets_on_quest/script/import_on_godot_quest_assets.gd
+
+Pour faire de la XR sur Godot, il faut configurer le projet puis lui donner un bout de code pour lancer la XR.
+Step: Dire a Godot qu il est en realite mixte [Load XR](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/_project/scene/load_xr.gd)
+  
+On veut bouger un drone, il nous faudra donc un petit code basic en attendant de savoir le coder nous meme
+[Joystick to Move Drone](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/move_drone_from_two_joysticks.gd): 
+   
+Qui dit drone dit controller, allons ecouter le clavier pour bouger le drone et vos manettes si vous avez
+Step: D'action a deux valeur de joystick [Input To joystick](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/drone_input_to_vector2.gd) 
+
+Vous allez vite perdre le drone des yeux, il nous faut donc relancer la scene de temps a autre.
+Step: Relancer la scene actuel en Godot  [Restart the game](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/node_restart_current_game.gd) 
+
+Pour revenir a notre editeur, le plus simple c est de quiter le jeu en cours directement.
+Step: Quitter un jeu en Godot [Quit the game](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/node_quit_current_game.gd) 
+
+
+Ca peut etre marant d avoir des objets a collecter, des patounes:
 Patoune obj https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_10_02_gdp_patoune_race/3D/PatouneLowPoly.obj  
+Patoune Texture2D https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_10_02_gdp_patoune_race/2D/Patoune.png  
 
 Drone Checkpoint Circle https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_06_31_gdp_drone_race_step/models/DFlag%20Circle.fbx   
 
