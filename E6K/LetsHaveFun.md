@@ -92,6 +92,8 @@ Nous avons **45 minutes** pour réaliser un petit jeu.
 
 L’idée est de rester concentrés sur l’essentiel :
 
+Les etapes en video [🎥](https://youtu.be/61l6EPt-pdw)  
+
 * Les bases :
   * [ ] Déjà, c’est quoi une manette 😅 ? [https://youtu.be/tweBgb79VyE?t=28](https://youtu.be/tweBgb79VyE?t=28)
   * [ ] Quand je bouge, tout disparaît… [https://youtu.be/cPSkMcwgWBo?t=1](https://youtu.be/cPSkMcwgWBo?t=1)
@@ -115,7 +117,6 @@ L’idée est de rester concentrés sur l’essentiel :
 * [ ] Changer sa taille, le tourner et le déplacer
 * [ ] Essayer le jeu
 * [ ] Utiliser la touche **U** pour relancer le jeu
-
   * [ ] Ajouter au global input de Godot la touche U pour restart
   * [ ] Vérifier que le script pour restart est dans la scène
 * [ ] Passer le jeu en mode XR
