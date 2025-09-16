@@ -1,36 +1,62 @@
-**To use from the Quest:**
-
-Si vous n avez que un Quest vous ne pouvez pas gere vos fichiers sur le casque.
-Il vous faudra donc un code that qui va chercher les fichiers la ou ils sont depuis godot.
 
 
-Import asset from Dowanload and other folder on Quest3: 
-Step: Code to import in Godot https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_09_15_gdp_import_assets_on_quest/script/import_on_godot_quest_assets.gd
+### 🚀 Hello Godot Drone Workshop XR – Do It Yourself
 
-Pour faire de la XR sur Godot, il faut configurer le projet puis lui donner un bout de code pour lancer la XR.
-Step: Dire a Godot qu il est en realite mixte [Load XR](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/blob/main/E6K/DoItYourself/load_xr.gd)
-  
-On veut bouger un drone, il nous faudra donc un petit code basic en attendant de savoir le coder nous meme
-[Joystick to Move Drone](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/blob/main/E6K/DoItYourself/move_drone_character_from_two_joysticks.gd): 
-   
-Qui dit drone dit controller, allons ecouter le clavier pour bouger le drone et vos manettes si vous avez
-Step: D'action a deux valeur de joystick [Input To joystick](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/blob/main/E6K/DoItYourself/drone_input_to_vector2.gd) 
+Je vous recommande de commencer avec le **fichier ZIP de ce projet** :
+👉 [HelloGodotDroneWorkshopXrCodeSample](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample)
 
-Vous allez vite perdre le drone des yeux, il nous faut donc relancer la scene de temps a autre.
-Step: Relancer la scene actuel en Godot  [Restart the game](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/node_restart_current_game.gd) 
-
-Pour revenir a notre editeur, le plus simple c est de quiter le jeu en cours directement.
-Step: Quitter un jeu en Godot [Quit the game](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/node_quit_current_game.gd) 
+Cependant, si vous préférez **apprendre pas à pas** par vous-meme, voici quelques ressources utiles :
+👉 [Dossier principal DIY](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
 
 
-Ca peut etre marant d avoir des objets a collecter, des patounes:
-[Patoune obj](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_10_02_gdp_patoune_race/3D/PatouneLowPoly.obj)     
-[Patoune Texture2D](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_10_02_gdp_patoune_race/2D/Patoune.png)     
+#### 📂 Importer des assets sur Quest
 
-Pour faire le circuit
-Drone Checkpoint [Circle](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_06_31_gdp_drone_race_step/models/DFlag%20Circle.fbx)  [Square](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_06_31_gdp_drone_race_step/models/DFlag%20Square.fbx) 
+* Si vous n’avez qu’un **Meta Quest**, vous ne pouvez pas gérer directement vos fichiers sur le casque.
+  Il vous faudra donc un code pour aller chercher les fichiers là où ils sont.
+  👉 [Importer des assets depuis le dossier Download et autres (Quest 3)](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
 
-Utilisons un UFO c est plus marant [UFO Mesh](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/3D/UFO.fbx)   [Texture avec UV](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/2D/UFO_Body_D_GridBlenderUV.pnghttps://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/2D/UFO_Body_D_GridBlenderUV.png) 
+
+#### 🥽 Activer la XR dans Godot
+
+* Pour faire de la XR dans Godot, il faut configurer le projet et lancer un script.
+  👉 [Charger la XR](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
+
+
+#### 🎮 Déplacer le drone
+
+* Script basique pour bouger le drone avec un joystick :
+  👉 [Joystick pour déplacer le drone](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
+
+* Mapper les entrées (clavier + manette) :
+  👉 [Entrées vers Joystick Vector2](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
+
+
+#### 🔄 Contrôler le jeu
+
+* Relancer la scène actuelle :
+  👉 [Relancer le jeu](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
+
+* Quitter le jeu :
+  👉 [Quitter le jeu](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
+
+
+#### 🐾 Objets à collecter
+
+* [Objet 3D Patoune](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
+* [Texture 2D Patoune](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
+
+
+#### 🏁 Checkpoints pour course de drones
+
+* [Checkpoint Cercle](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
+* [Checkpoint Carré](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
+
+
+#### 🛸 UFO amusant
+
+* [Mesh UFO](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
+* [Texture UFO avec UV](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
+
 
 
 -----------
