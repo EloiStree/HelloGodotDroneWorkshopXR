@@ -1,3 +1,6 @@
+To use from the Quest:
+- https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/_project/scene/load_xr.gd
+
 
 ### Bonjour à toutes et à tous 😁
 
