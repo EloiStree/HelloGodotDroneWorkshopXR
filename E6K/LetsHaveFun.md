@@ -124,6 +124,7 @@ L’idée est de rester concentrés sur l’essentiel.
 
 - Comment configurer un projet XR étape par étape dans le casque [🎥](https://youtu.be/BWHUlZuLHxo?t=312)
 - Tutoriel vidéo des étapes pour passer de Windows au Quest [🎥](https://youtu.be/61l6EPt-pdw)
+- Fail... dans le train [🎥](https://youtu.be/LdUr1q2chl4)
 
 
 * Les bases :
