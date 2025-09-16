@@ -53,7 +53,8 @@ En plus d’être une console, c’est aussi un véritable ordinateur sous Linux
 ### 🚀 Hello Godot Drone Workshop XR – Do It Yourself
 
 Je vous recommande de commencer avec le **fichier ZIP de ce projet** :
-👉 [HelloGodotDroneWorkshopXrCodeSample](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample)
+👉 [Version à convertir en XR](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample)
+👉 [Version XR du project](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/tree/open_xr_start) 
 
 Cependant, si vous préférez **apprendre pas à pas** par vous-meme, voici quelques ressources utiles :
 👉 [Dossier principal DIY](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
