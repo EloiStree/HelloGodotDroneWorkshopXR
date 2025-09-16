@@ -8,13 +8,13 @@ Import asset from Dowanload and other folder on Quest3:
 Step: Code to import in Godot https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_09_15_gdp_import_assets_on_quest/script/import_on_godot_quest_assets.gd
 
 Pour faire de la XR sur Godot, il faut configurer le projet puis lui donner un bout de code pour lancer la XR.
-Step: Dire a Godot qu il est en realite mixte [Load XR](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/_project/scene/load_xr.gd)
+Step: Dire a Godot qu il est en realite mixte [Load XR](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/blob/main/E6K/DoItYourself/load_xr.gd)
   
 On veut bouger un drone, il nous faudra donc un petit code basic en attendant de savoir le coder nous meme
-[Joystick to Move Drone](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/move_drone_from_two_joysticks.gd): 
+[Joystick to Move Drone](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/blob/main/E6K/DoItYourself/move_drone_character_from_two_joysticks.gd): 
    
 Qui dit drone dit controller, allons ecouter le clavier pour bouger le drone et vos manettes si vous avez
-Step: D'action a deux valeur de joystick [Input To joystick](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/drone_input_to_vector2.gd) 
+Step: D'action a deux valeur de joystick [Input To joystick](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/blob/main/E6K/DoItYourself/drone_input_to_vector2.gd) 
 
 Vous allez vite perdre le drone des yeux, il nous faut donc relancer la scene de temps a autre.
 Step: Relancer la scene actuel en Godot  [Restart the game](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/node_restart_current_game.gd) 
