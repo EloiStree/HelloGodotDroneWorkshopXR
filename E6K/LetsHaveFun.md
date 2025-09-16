@@ -280,6 +280,8 @@ Voici les étapes si vous voulez le faire chez vous.
 
 * MiraBox et Webcam : [https://youtu.be/bUa1vpEWpWw](https://youtu.be/bUa1vpEWpWw)
 
----
 
-Veux-tu que je reformate ça aussi en **version plus concise et lisible pour un support d’atelier** (avec puces, encadrés, étapes numérotées), ou tu préfères garder cette version "narrative" ?
+
+**Listen to input of the controller in XR **
+- GPT answer: https://chatgpt.com/share/68c9b73d-746c-800e-97eb-1b39fe8facb7
+  - Add the Toolkit then use input action system 
