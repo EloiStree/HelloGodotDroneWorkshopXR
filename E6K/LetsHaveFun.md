@@ -1,5 +1,10 @@
-To use from the Quest:
-- https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/_project/scene/load_xr.gd
+**To use from the Quest:**
+- [Load XR](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/_project/scene/load_xr.gd)    [Joystick to Move Drone](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/move_drone_from_two_joysticks.gd): 
+   [Input To joystick](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/drone_input_to_vector2.gd) 
+  [Quit the game](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/node_quit_current_game.gd) 
+  [Restart the game](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/node_restart_current_game.gd) 
+
+-----------
 
 
 ### Bonjour à toutes et à tous 😁
