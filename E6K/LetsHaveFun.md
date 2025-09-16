@@ -1,5 +1,15 @@
 
 
+
+### Bonjour à toutes et à tous 😁
+
+Bienvenue à celles et ceux qui souhaitent découvrir l’univers du jeu vidéo en réalité mixte !
+
+Durant cet atelier, je vous propose une expérience un peu particulière.
+
+Nous allons **dessiner un niveau de drone sur le Meta Quest 3 avec Open Brush**, *l’importer sur le Raspberry Pi pour votre collègue*, puis **y jouer directement dans Godot**… sans jamais quitter le casque 😉.
+
+
 ### 🚀 Hello Godot Drone Workshop XR – Do It Yourself
 
 Je vous recommande de commencer avec le **fichier ZIP de ce projet** :
@@ -62,16 +72,6 @@ Cependant, si vous préférez **apprendre pas à pas** par vous-meme, voici quel
 
 
 
------------
-
-
-### Bonjour à toutes et à tous 😁
-
-Bienvenue à celles et ceux qui souhaitent découvrir l’univers du jeu vidéo en réalité mixte !
-
-Durant cet atelier, je vous propose une expérience un peu particulière.
-
-Nous allons **dessiner un niveau de drone sur le Meta Quest 3 avec Open Brush**, *l’importer sur le Raspberry Pi pour votre collègue*, puis **y jouer directement dans Godot**… sans jamais quitter le casque 😉.
 
 ---
 
