@@ -1,6 +1,5 @@
 
 
-
 ### Bonjour à toutes et à tous 😁
 
 Bienvenue à celles et ceux qui souhaitent découvrir l’univers du jeu vidéo en réalité mixte !
@@ -210,9 +209,14 @@ Notez que vous pouvez aussi dessiner et faire un jeu à la main :
 * 🎮 Jouer : [https://eloistree.itch.io/bonjourunity6](https://eloistree.itch.io/bonjourunity6)
 * 💻 Code : [https://github.com/EloiStree/2025\_02\_24\_UnJeuDansLaBibliotheque](https://github.com/EloiStree/2025_02_24_UnJeuDansLaBibliotheque)
 
-C’est quoi la suite ?
+**C’est quoi la suite ?**
 
 [@Brackeys](https://www.youtube.com/@Brackeys) ou [Unreal Engine](https://www.unrealengine.com/en-US)
+
+**Precedent Nid sur la VR:**
+
+https://github.com/EloiStree/2025_09_01_HelloUnrealXR
+
 
 ---
 
