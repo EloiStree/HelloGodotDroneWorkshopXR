@@ -1,8 +1,26 @@
 **To use from the Quest:**
+
+Import asset from Dowanload and other folder on Quest3:  
+https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_09_15_gdp_import_assets_on_quest/script/import_on_godot_quest_assets.gd  
+
 - [Load XR](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/_project/scene/load_xr.gd)    [Joystick to Move Drone](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/move_drone_from_two_joysticks.gd): 
    [Input To joystick](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/drone_input_to_vector2.gd) 
   [Quit the game](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/node_quit_current_game.gd) 
   [Restart the game](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/script/node_restart_current_game.gd) 
+
+
+Patoune Texture2D https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_10_02_gdp_patoune_race/2D/Patoune.png  
+Patoune obj https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_10_02_gdp_patoune_race/3D/PatouneLowPoly.obj  
+
+Drone Checkpoint Circle https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_06_31_gdp_drone_race_step/models/DFlag%20Circle.fbx   
+
+Drone Checkpoint Square https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_06_31_gdp_drone_race_step/models/DFlag%20Square.fbx
+
+UFO Mesh https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/3D/UFO.fbx  
+UFO Normal map
+https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/2D/UFO_Body_NM.png
+
+UFO Texture with UV https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/2D/UFO_Body_D_GridBlenderUV.pnghttps://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/2D/UFO_Body_D_GridBlenderUV.png
 
 -----------
 
