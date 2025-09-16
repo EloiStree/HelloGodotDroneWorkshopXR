@@ -43,6 +43,13 @@ Avec ces deux appareils, il a déjà tout le nécessaire pour apprendre, et mêm
 
 👉 Avec un budget d’environ **700 €**, vous êtes prêts à apprendre **Godot** et à créer de la VR publiable sur les stores 🥽👍
 
+
+Si vous êtes riche et que vous voulez gentiment pousser votre enfant à devenir informaticien, offrez-lui une **Steam Deck**.  
+C’est sans doute l’une des meilleures versions de Linux, avec une carte graphique de qualité. Godot y tourne à merveille.  
+En plus d’être une console, c’est aussi un véritable ordinateur sous Linux Arch.  
+😜 [https://store.steampowered.com/steamdeck](https://store.steampowered.com/steamdeck)
+
+
 ---
 
 ### Objectif de l’atelier
@@ -51,41 +58,84 @@ Nous avons **45 minutes** pour réaliser un petit jeu.
 
 L’idée est de rester concentrés sur l’essentiel :
 
-Les bases :
+* Les bases :
+  * [ ] Déjà, c’est quoi une manette 😅 ? [https://youtu.be/tweBgb79VyE?t=28](https://youtu.be/tweBgb79VyE?t=28)
+  * [ ] Quand je bouge, tout disparaît… [https://youtu.be/cPSkMcwgWBo?t=1](https://youtu.be/cPSkMcwgWBo?t=1)
+* Copier / Cloner le projet
+  * [x] Point de départ : [https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample)
+    * [x] Une solution en VR : [https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/tree/open\_xr\_start](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/tree/open_xr_start)
+      * [x] Déposer la solution VR sur le casque
+* Télécharger Godot et l’installer
+  * [x] Sur Raspberry Pi
+  * [ ] Sur Windows
+  * [ ] Sur le Quest
+* [ ] Importer / Éditer un projet Godot
+* [ ] Ouvrir une scène de départ pour l’atelier
+* [ ] Créer un cube dans Godot
+  * [ ] Ajouter une Node3D
+  * [ ] Ajouter à cette node un MeshInstance3D
+  * [ ] Ajouter une collision
+  * [ ] Ajouter de la physique
+* [x] Ajouter un sol invisible
+* [ ] Ajouter un checkpoint pour la course de drone
+* [ ] Changer sa taille, le tourner et le déplacer
+* [ ] Essayer le jeu
+* [ ] Utiliser la touche **U** pour relancer le jeu
 
-* Déjà, c’est quoi une manette 😅 ? [https://youtu.be/tweBgb79VyE?t=28](https://youtu.be/tweBgb79VyE?t=28)
-* Quand je bouge, il y a tout qui disparaît…  [https://youtu.be/cPSkMcwgWBo?t=1](https://youtu.be/cPSkMcwgWBo?t=1)
+  * [ ] Ajouter au global input de Godot la touche U pour restart
+  * [ ] Vérifier que le script pour restart est dans la scène
+* [ ] Passer le jeu en mode XR
+  * [ ] Le shader activé
+  * [ ] Mode XR activé
+  * [ ] Passer en mode alpha
+  * [ ] Changer la couleur de l’environnement en noir transparent
+  * [ ] Aller voir la documentation : [https://docs.godotengine.org/en/stable/tutorials/xr/setting\_up\_xr.html](https://docs.godotengine.org/en/stable/tutorials/xr/setting_up_xr.html)
+    * [ ] Ajouter le script XRInterface de la documentation
+  * [ ] Retirer la caméra du jeu
+  * [ ] Ajouter un drone sans caméra
+  * [ ] Ajouter un point de départ XR
+  * [ ] Ajouter une caméra XR
+  * [ ] Ajouter les mains
+  * [ ] Ajouter des sphères de debug dans la main
+  * [ ] On est bons.
+* [ ] Si vous êtes sur le casque, appuyez sur Play et vous êtes bons.
+* [ ] Si vous êtes sur le Pi ou le PC :
+  * [ ] Brancher le Quest avec un câble
+  * [ ] Autoriser le PC
+  * [ ] Aller dans les notifications du menu et autoriser la connexion USB
+  * [ ] Le disque (simulé) du Quest devrait apparaître
+  * [ ] Copier tout le projet Godot dans *Documents* sur le casque
+  * [ ] Ouvrir Godot et importer le projet en question
+  * [ ] Ouvrir la scène que vous avez préparée
+  * [ ] Play et on est bons :)
 
+**Bonus : La painting jam**
+Créer un circuit en Open Brush et l’importer directement dans votre projet sur le casque.
+Puis faire de même avec Open Block et [Doodle Board](https://www.meta.com/fr-fr/experiences/doodle-board-whiteboard-paint-sketch-draw-and-get-creative-in-vr-mr/).
+⚠️ Attention : déconnectez Internet avant de lancer l’application car vous êtes sur le même compte dans le casque.
 
-Comment on fait pour l ecran du casque sur notre ecran ?
-- https://github.com/HelloGodotPi/ScreenCopyCommandOnPiForQuest
+* Comment fait-on pour afficher l’écran du casque sur notre écran ?
 
-Un peu de dessin :
+  * [https://github.com/HelloGodotPi/ScreenCopyCommandOnPiForQuest](https://github.com/HelloGodotPi/ScreenCopyCommandOnPiForQuest)
+* Un peu de dessin :
 
-* **Un circuit** → dessiné dans Open Brush pour un drone
+- **Un circuit** → dessiné dans Open Brush pour un drone
 
-J’ai préparé un projet pour vous dans le casque et sur le Raspberry Pi.
+**Bonus : SketchFab dans mon casque**
 
-* Ouvrons-les pour voir.
-  * Version non VR: https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample
-  * Version VR: https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/tree/open_xr_start
+Allons télécharger un objet de SketchFab et le déposer dans la scène sur PC ou sur Quest directement.
 
-Utilisons le projet sur vos casques :
-
-* Importer le circuit sur le Raspberry Pi pour créer un niveau non-VR sur le Pi.
-
-Importer le circuit sur le Raspberry Pi depuis le Quest :
-
-* Importer le circuit dans Godot sur le Pi pour tester le niveau dans le casque.
-
-Déposons un objet de SketchFab dans la scène :
-
-* Dupliquer et placer la piste du circuit.
 * Attention de bien ajouter le mot-clé **lowpoly** pendant la recherche.
+  [https://sketchfab.com/feed](https://sketchfab.com/feed)
 
 Et voilà ! En 45 minutes, ça passe vite, mais on aura un début de jeu jouable 🎮.
 
 ---
+
+# Bas de page / Brouillons
+
+---
+
 
 Notez que vous pouvez aussi dessiner et faire un jeu à la main :
 
