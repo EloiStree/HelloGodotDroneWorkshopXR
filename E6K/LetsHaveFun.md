@@ -1,6 +1,3 @@
-Voici ton texte corrigé avec une orthographe et une grammaire améliorées, tout en gardant ton style accessible et dynamique :
-
----
 
 ### Bonjour à toutes et à tous 😁
 
