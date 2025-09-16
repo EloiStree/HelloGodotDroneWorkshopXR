@@ -24,18 +24,14 @@ Step: Quitter un jeu en Godot [Quit the game](https://github.com/HelloGodotPi/He
 
 
 Ca peut etre marant d avoir des objets a collecter, des patounes:
-Patoune obj https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_10_02_gdp_patoune_race/3D/PatouneLowPoly.obj  
-Patoune Texture2D https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_10_02_gdp_patoune_race/2D/Patoune.png  
+[Patoune obj](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_10_02_gdp_patoune_race/3D/PatouneLowPoly.obj)     
+[Patoune Texture2D](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_10_02_gdp_patoune_race/2D/Patoune.png)     
 
-Drone Checkpoint Circle https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_06_31_gdp_drone_race_step/models/DFlag%20Circle.fbx   
+Pour faire le circuit
+Drone Checkpoint [Circle](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_06_31_gdp_drone_race_step/models/DFlag%20Circle.fbx)  [Square](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_06_31_gdp_drone_race_step/models/DFlag%20Square.fbx) 
 
-Drone Checkpoint Square https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2024_06_31_gdp_drone_race_step/models/DFlag%20Square.fbx
+Utilisons un UFO c est plus marant [UFO Mesh](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/3D/UFO.fbx)   [Texture avec UV](https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/2D/UFO_Body_D_GridBlenderUV.pnghttps://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/2D/UFO_Body_D_GridBlenderUV.png) 
 
-UFO Mesh https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/3D/UFO.fbx  
-UFO Normal map
-https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/2D/UFO_Body_NM.png
-
-UFO Texture with UV https://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/2D/UFO_Body_D_GridBlenderUV.pnghttps://github.com/HelloGodotPi/HelloGodotDroneWorkshopXrCodeSample/blob/open_xr_start/packages/2025_04_15_gdp_kid_toy_ovni_code/2D/UFO_Body_D_GridBlenderUV.png
 
 -----------
 
