@@ -8,6 +8,9 @@ Je vous recommande de commencer avec le **fichier ZIP de ce projet** :
 Cependant, si vous préférez **apprendre pas à pas** par vous-meme, voici quelques ressources utiles :
 👉 [Dossier principal DIY](https://github.com/EloiStree/HelloGodotDroneWorkshopXR/tree/main/E6K/DoItYourself)
 
+- [Acheter un Quest](https://github.com/EloiStree/HelloGodotXR/issues/12)
+- [Telecharger Godot pour Meta](https://www.meta.com/experiences/godot-game-engine/)
+- [Telecharger Godot 4.4 Stable](https://godotengine.org/download/archive/4.4-stable)
 
 #### 📂 Importer des assets sur Quest
 
