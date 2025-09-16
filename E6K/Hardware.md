@@ -33,7 +33,7 @@ Pendant qu’un participant est dans le casque, l’autre (ou les autres) explor
 * 4 laptops (sachant creer un hotspot Wi-Fi) équipés de [**Oculus Developer Hub**](https://developers.meta.com/horizon/downloads/package/oculus-developer-hub-win) et [**Oculus Setup**](https://www.meta.com/be/en/quest/setup/?srsltid=AfmBOoo1HIa-u0cZmtkyc82DHmzmdILVMQjV7JRtRebUJHcmqJnt4ooI), pour voir ce que les collègues voient dans les casques
   * 4 câbles USB 2+ vers USB-C (au cas où les PC n’auraient pas de port USB-C → USB-C)
   * Oculus Setup connecter avec le compte de Technociter si possible.
-  * [Telecharger](https://godotengine.org/download/windows) Godot Win64 sur le PC
+  * [Telecharger](https://godotengine.org/download/windows) Godot 4.4 Win64 sur le PC
   * Telecharger SCRCPY Win64 https://github.com/Genymobile/scrcpy/releases/tag/v3.3.2 
 * 6 casques ou plus :
   * Minimum 4 pour l’atelier
