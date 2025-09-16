@@ -119,9 +119,12 @@ En plus d’être une console, c’est aussi un véritable ordinateur sous Linux
 
 Nous avons **45 minutes** pour réaliser un petit jeu.
 
-L’idée est de rester concentrés sur l’essentiel :
+L’idée est de rester concentrés sur l’essentiel.
 
-Les etapes en video [🎥](https://youtu.be/61l6EPt-pdw)  
+
+- Comment configurer un projet XR étape par étape dans le casque [🎥](https://youtu.be/BWHUlZuLHxo?t=312)
+- Tutoriel vidéo des étapes pour passer de Windows au Quest [🎥](https://youtu.be/61l6EPt-pdw)
+
 
 * Les bases :
   * [ ] Déjà, c’est quoi une manette 😅 ? [https://youtu.be/tweBgb79VyE?t=28](https://youtu.be/tweBgb79VyE?t=28)
