@@ -1,4 +1,4 @@
-
+<img width="1300" height="282" alt="image" src="https://github.com/user-attachments/assets/93a47d70-27df-480d-aea5-0d8765df54e6" />
 
 ### Bonjour à toutes et à tous 😁
 
@@ -125,6 +125,27 @@ L’idée est de rester concentrés sur l’essentiel.
 - Comment configurer un projet XR étape par étape dans le casque [🎥](https://youtu.be/BWHUlZuLHxo?t=312)
 - Tutoriel vidéo des étapes pour passer de Windows au Quest [🎥](https://youtu.be/61l6EPt-pdw)
 - Fail... dans le train [🎥](https://youtu.be/LdUr1q2chl4)
+
+
+Notification
+<img width="797" height="173" alt="image" src="https://github.com/user-attachments/assets/a7bd1c45-dc32-4ac2-b520-7eb852945230" />
+
+Accepter les transferts USB
+<img width="1300" height="282" alt="image" src="https://github.com/user-attachments/assets/b3ff9a86-f3c0-44d3-bd93-2dca649944c4" />
+
+Aller cherchez les applications
+<img width="826" height="244" alt="image" src="https://github.com/user-attachments/assets/e08f30c5-5350-4c10-8897-9e6fba6af649" />
+
+
+Menu principal
+<img width="793" height="179" alt="image" src="https://github.com/user-attachments/assets/21cc6dcd-1dba-4ccc-9d9d-d77779b64f8a" />
+
+Voir a travers les cameras
+<img width="782" height="159" alt="image" src="https://github.com/user-attachments/assets/5666622f-a754-4193-8955-3c8aa0142cc6" />
+
+
+
+
 
 
 * Les bases :
