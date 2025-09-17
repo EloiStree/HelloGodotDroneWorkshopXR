@@ -141,7 +141,12 @@ Menu principal
 <img width="793" height="179" alt="image" src="https://github.com/user-attachments/assets/21cc6dcd-1dba-4ccc-9d9d-d77779b64f8a" />
 
 Voir a travers les cameras
-<img width="782" height="159" alt="image" src="https://github.com/user-attachments/assets/5666622f-a754-4193-8955-3c8aa0142cc6" />
+
+<img width="782" height="197" alt="image" src="https://github.com/user-attachments/assets/5108164e-bff0-4f20-90a1-a540af21db77" />
+
+
+Store pour installer et ouvrir Godot sur le casque
+go<img width="809" height="204" alt="image" src="https://github.com/user-attachments/assets/84f35572-cb8b-4363-99cf-917760b8c43f" />
 
 
 
