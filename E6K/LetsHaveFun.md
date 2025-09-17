@@ -1,4 +1,3 @@
-<img width="1300" height="282" alt="image" src="https://github.com/user-attachments/assets/93a47d70-27df-480d-aea5-0d8765df54e6" />
 
 ### Bonjour à toutes et à tous 😁
 
