@@ -17,8 +17,12 @@ _Step that are outside of this repository context but still important to it_
 
 
 # Keyword:
+
+_One day in your carrier you will have to learn those words_
+
 - [ ] Godot XR Tools
 
 # Line:
+_Know one of this line is a check point of where you are in your learning path and where you are going.
 - [ ] enable shader
 
